@@ -1,0 +1,41 @@
+form{
+    color: rgb(15, 4, 4);
+}
+
+h1{
+    color: black;
+    padding: 0;
+    margin: 0;
+}
+
+.register-container{
+    text-align: center;
+}
+
+.login-container{
+    text-align: center;
+}
+
+.main-container{
+    display: none;
+    border: 1px solid;
+    box-sizing: border-box;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+
+.resume{
+    border: 1px solid;
+    box-sizing: border-box;
+    height: 150px;
+    width: 100%;
+
+}
+
+.details-class{
+    border: 1px solid;
+    box-sizing: border-box;
+    width: 50%;
+    height: 100px;
+}
